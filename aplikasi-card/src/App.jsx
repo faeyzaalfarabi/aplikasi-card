@@ -16,7 +16,7 @@ const students = [
   },
   {
     id: 2,
-    nama: "Rizky Fadhilah",
+    nama: "Rizky Fadhillah",
     sekolah: "SMA Negeri 3 Jakarta",
     asal: "Jakarta Selatan",
     nilaiAkhir: 85.0,
